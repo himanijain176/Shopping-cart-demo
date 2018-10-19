@@ -48,10 +48,9 @@
     color:black;
     font-style: italic;
 }
-* {
-    box-sizing: border-box;
+.myBtnContainer{
+    width: 100%;
 }
-
 body {
     background-color:pink;
     
@@ -84,6 +83,9 @@ h1 {
     float: left;
     width: 33.33%;
     display: none; /* Hide all elements by default */
+    box-sizing: border-box;    
+    caption-side: bottom;
+  
 }
 
 /* Clear floats after rows */ 
@@ -99,12 +101,13 @@ h1 {
     padding: 10px;
     height:300px;
     width:300px;
+    display: inline-block;
 
 }
 
 /* The "show" class is added to the filtered elements */
 .show {
-  display: block;
+  display: inline-block;
 }
 
 /* Style the buttons */
@@ -123,6 +126,16 @@ h1 {
 .btn.active {
   background-color: #666;
   color: white;
+}
+
+h4{
+    font-size:20px;
+    color: pink;
+    font-weight: bold; 
+}
+p{
+    font-size:15px;
+     
 }
 @media screen and (max-width: 800px) {
     .column {
