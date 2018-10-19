@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "category": "Men",
+    "sub_category": "Tshirts",
+    "brand": "Puma",
+    "name": "Men Charcoal Grey Solid Polo Collar T-shirt",
+    "price": "899",
+    "image": [
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/4149379/2018/8/10/2af0e079-de5b-4a0d-a418-1c342b99cb6f1533883466255-Mast--Harbour-Men-Tshirts-1261533883464772-1.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/4149379/2018/8/10/7074f967-d28d-4267-be33-bd47f866db6f1533883466198-Mast--Harbour-Men-Tshirts-1261533883464772-4.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/4149379/2018/8/10/a0b7274f-670f-42fd-bd26-1c08b7617ba81533883466185-Mast--Harbour-Men-Tshirts-1261533883464772-5.jpg"
+    ],
+    "color": "green",
+    "size": ["X","L","S","XL"],
+    "feature":["Charcoal grey solid T-shirt"," has a polo collar","short sleeves"]
+  },
+  {
+    "id": 2,
+    "category": "Men",
+    "sub_category": "Tshirts",
+    "brand": "Roadster",
+    "name": "Men Black T-shirt",
+    "price": "599",
+    "image": [
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1708418/2017/2/21/11487662624487-Roadster-Men-Black-Solid-Round-Neck-T-Shirt-461487662624232-1.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1708418/2017/2/21/11487662624429-Roadster-Men-Black-Solid-Round-Neck-T-Shirt-461487662624232-4.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1708418/2017/2/21/11487662624411-Roadster-Men-Black-Solid-Round-Neck-T-Shirt-461487662624232-5.jpg"
+    ],
+    "color": "black",
+    "size": ["X","L","S","XL"],
+    "feature":["Black T-shirt with printed detail", "has a round neck"," short sleeves"]
+  },
+ {
+    "id": 3,
+    "category": "Men",
+    "sub_category": "Formal shirts",
+    "brand": "Peter England",
+    "name": "Men Pink & Blue Regular Fit Checked Formal Shirt",
+    "price": "909",
+    "image": [
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7201883/2018/9/7/e4815ad9-3898-45df-ba78-f224161199531536316678584-Peter-England-Men-Pink--Blue-Regular-Fit-Checked-Formal-Shir-1.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7201883/2018/9/7/5005b969-df35-487f-b3a8-885422c1a5621536316678543-Peter-England-Men-Pink--Blue-Regular-Fit-Checked-Formal-Shir-4.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7201883/2018/9/7/9fbd1d39-f111-49a9-a9cd-b17fb3b29a671536316678529-Peter-England-Men-Pink--Blue-Regular-Fit-Checked-Formal-Shir-5.jpg"
+    ],
+    "color": "Pink",
+    "size": [39,40,41,42],
+    "feature":["Pink and blue checked formal shirt"," has a spread collar"," short sleeves","straight hem"," one patch pocket"]
+  },
+  {
+    "id": 4,
+    "category": "Men",
+    "sub_category": "Formal shirts",
+    "brand": "Arrow",
+    "name": "Men Blue Slim Fit Checked Formal Shirt",
+    "price": "1319",
+    "image": [
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7196869/2018/9/26/31265b54-4bd8-4837-babb-7405f6decef71537966238039-Arrow-Men-Blue-Slim-Fit-Checked-Casual-Shirt-397153796623580-1.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7196869/2018/9/26/8bd6ab49-c6ef-40a9-9966-219a57ae4ce91537966237975-Arrow-Men-Blue-Slim-Fit-Checked-Casual-Shirt-397153796623580-5.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7196869/2018/9/26/9672f388-cb8d-45d8-9a47-b105a0e14da41537966237988-Arrow-Men-Blue-Slim-Fit-Checked-Casual-Shirt-397153796623580-4.jpg"
+    ],
+    "color": "Blue",
+    "size": [39,40,42,41],
+    "feature":["Blue checked formal shirt, has a spread collar", "long sleeves", "curved hem", "one patch pocket"]
+  },
+ {
+    "id": 5,
+    "category": "Men",
+    "sub_category": "Jackets",
+    "brand": "Fort Collins",
+    "name": "Men Grey Solid Padded Jacket",
+    "price": "3999",
+    "image": [
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7424180/2018/9/25/7290974b-6951-4151-af1d-e81ffd6320d81537875359296-Fort-Collins-Men-Grey-Solid-Padded-Jacket-7231537875359186-1.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7424180/2018/9/25/6853a243-0cc6-45e2-807a-f8231a27dc6d1537875359234-Fort-Collins-Men-Grey-Solid-Padded-Jacket-7231537875359186-4.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7424180/2018/9/25/a6aea176-ca6e-4fc3-85a5-8e0e4f0ecd271537875359317-Fort-Collins-Men-Grey-Solid-Padded-Jacket-7231537875359186-5.jpg"
+    ],
+    "color": "Grey",
+    "size": ["M","XL","L","XXL"],
+    "feature":["Grey solid padded jacket","has a mock collar","four pockets","zip closure","long sleeves","straight hem","polyester lining"]
+  },
+{
+    "id": 6,
+    "category": "Men",
+    "sub_category": "Jackets",
+    "brand": "Wildcraft",
+    "name": "Men Orange Solid Lightweight Jacket",
+    "price": "1795",
+    "image": [
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2017052/2017/8/7/11502107021701-Wildcraft-Men-Orange-Solid-Lightweight-Open-Front-Jacket-2461502107021465-1.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2017052/2017/8/7/11502107021610-Wildcraft-Men-Orange-Solid-Lightweight-Open-Front-Jacket-2461502107021465-4.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2017052/2017/8/7/11502107021643-Wildcraft-Men-Orange-Solid-Lightweight-Open-Front-Jacket-2461502107021465-3.jpg"
+    ],
+    "color": "Orange",
+    "size": ["M","XL","L","XXL"],
+    "feature":["Orange solid jacket","has a stand collar","2 pockets","zip closure","long sleeves","straight hem","nylon lining"]
+  },
+{
+    "id": 7,
+    "category": "Women",
+    "sub_category": "Tops",
+    "brand": "ONLY",
+    "name": "Women Olive Green Solid Top",
+    "price": "799",
+    "image": [
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7117941/2018/8/27/523992c3-1e97-4db8-b0c1-b91a763bc1711535365952357-ONLY-Women-Tshirts-5281535365952164-1.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7117941/2018/8/27/d0f87ea4-c26f-44e3-9812-cb6a983e93ac1535365952268-ONLY-Women-Tshirts-5281535365952164-4.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7117941/2018/8/27/45d7a168-ba29-4341-afef-27a360434c3b1535365952247-ONLY-Women-Tshirts-5281535365952164-5.jpg"
+    ],
+    "color": "Green",
+    "size": ["M","XL","L","S"],
+    "feature":["Olive green solid woven regular top","has a round neck","short sleeves"]
+  },
+{
+    "id": 8,
+    "category": "Women",
+    "sub_category": "Tops",
+    "brand": "Vero Moda",
+    "name": "Women Peach-Coloured Solid Top",
+    "price": "1999",
+    "image": [
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6788191/2018/7/31/255d25b5-f853-488b-955a-2af7847c6ff41533028089774-Vero-Moda-Women-Peach-Coloured-Solid-Top-9971533028088820-1.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6788191/2018/7/31/537d115a-5678-4411-8045-92a22063e6c81533028089722-Vero-Moda-Women-Peach-Coloured-Solid-Top-9971533028088820-4.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6788191/2018/7/31/623479dc-8521-4bdb-852c-572d632683621533028089707-Vero-Moda-Women-Peach-Coloured-Solid-Top-9971533028088820-5.jpg"
+    ],
+    "color": "Pink",
+    "size": ["M","XL","L","S"],
+    "feature":["Peach-coloured solid woven regular top", "has a tie-up neck"," long sleeves"]
+  },
+{
+    "id": 9,
+    "category": "Women",
+    "sub_category": "Dresses",
+    "brand": "FOREVER 21",
+    "name": "Women White Solid Shirt Dress",
+    "price": "1199",
+    "image": [
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7485051/2018/10/9/c4b3fc14-adba-4106-9cff-c57ec2a18dd51539081315553-FOREVER-21-Women-White-Solid-Shirt-Dress-3451539081315279-1.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7485051/2018/10/9/9344e89a-7be6-4161-975e-d95a6af800f01539081315470-FOREVER-21-Women-White-Solid-Shirt-Dress-3451539081315279-4.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7485051/2018/10/9/5ab78f8d-9280-4b2a-80bf-5961285341071539081315443-FOREVER-21-Women-White-Solid-Shirt-Dress-3451539081315279-5.jpg"
+    ],
+    "color": "White",
+    "size": ["M","XL","L","S"],
+    "feature":["White solid woven shirt dress","has a shirt collar", "short sleeves","full button closure","curved hem Comes with a belt"]
+  },
+{
+    "id": 10,
+    "category": "Women",
+    "sub_category": "Dresses",
+    "brand": "Harpa",
+    "name": "Women Yellow Floral Print A-Line Dress",
+    "price": "674",
+    "image": [
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2126738/2017/9/15/11505454933528-Harpa-Women-Dresses-7941505454933257-1.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2126738/2017/9/15/11505454933471-Harpa-Women-Dresses-7941505454933257-3.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2126738/2017/9/15/11505454933401-Harpa-Women-Dresses-7941505454933257-5.jpg"
+    ],
+    "color": "Yellow",
+    "size": ["M","XL","L","S"],
+    "feature":["Yellow floral print woven A-line dress with cut-out detail","has a round neck", "three-quarter sleeves, button closure, slightly flared hem"]
+  },
+{
+    "id": 11,
+    "category": "Women",
+    "sub_category": "Kurtas ans Suits",
+    "brand": "Biba",
+    "name": "Women Orange Solid A-Line Kurta",
+    "price": "1499",
+    "image": [
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6844971/2018/8/3/d8e2a87f-ef9b-48ff-b307-9b54f015d5be1533300852160-ART-IN-THE-SUBWAY-2301533300851947-1.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6844971/2018/8/3/b6ae6e04-e7ad-4aae-bcd0-a863a53cd92f1533300852367-ART-IN-THE-SUBWAY-2301533300851947-4.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6844971/2018/8/3/4d7aecb6-e1f6-4af6-892a-215fa1e1ae971533300852264-ART-IN-THE-SUBWAY-2301533300851947-5.jpg"
+    ],
+    "color": "Orange",
+    "size": ["M","XL","L","S"],
+    "feature":["Orange and green solid A-line kurta","has a mandarin collar","three-quarter sleeves","high-low hem, side slits","2 pockets","pin tucks detail"]
+  },
+{
+    "id": 12,
+    "category": "Women",
+    "sub_category": "Kurtas ans Suits",
+    "brand": "IMARA",
+    "name": "Women Red Printed Straight Kurta",
+    "price": "1079",
+    "image": [
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6937681/2018/8/31/733723e1-b644-496e-a7e7-22fd3d7241281535713174161-IMARA-Women-Tunics-7451535713173924-1.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6937681/2018/8/31/3f5f6454-dff9-4098-b8ee-ae3c488928ba1535713174050-IMARA-Women-Tunics-7451535713173924-4.jpg",
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6937681/2018/8/31/ebe7ab1d-974f-4a92-b9c9-430c3790e46a1535713174006-IMARA-Women-Tunics-7451535713173924-5.jpg"
+    ],
+    "color": "Red",
+    "size": ["M","XL","L","S"],
+    "feature":["Red printed straight kurta", "has a round split V-neckline", "three-quarter sleeves"," straight hem", "multiple slits"," mock button "]
+  }
+]
