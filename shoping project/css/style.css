@@ -1,5 +1,5 @@
 
-#WebName{
+#WebName{
     font-size:30px;
     font-weight: bold;
     color:red;
@@ -55,7 +55,6 @@
 }
 body {
     background-color:pink;
-    
     font-family: Arial;
 }
 
@@ -88,9 +87,10 @@ p{
   }
   .card > .card-img-top {
       height: 300px;
-      width: 200px;
+      
       padding: 2px 2px;
-      align:center;
+      margin: 0 auto;   /* center image */
+      width: 100%; 
 
   }
   .col-lg-4 col-md-4 col-sm-6 col-xs-12{
@@ -100,7 +100,6 @@ p{
   {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
-    padding-right: 2px;
     color:firebrick;
 }
   .price{
@@ -110,5 +109,10 @@ p{
   .card{
       border: 1px solid gray;
       padding: 10px 10px;
-    
+      box-sizing:content-box;
+      margin-top: 10px;
+  }
+  #display-row
+  {
+    padding-bottom: 10px;
   }
