@@ -1,5 +1,5 @@
 
-/*filterSelection("all")
+/*filterSelection("all")
 function filterSelection(c) {
   var x, i;
   x = document.getElementsByClassName("column");
@@ -94,13 +94,13 @@ var fetchData = function(){
 			document.getElementById('card-price'+d.id).innerHTML ="Rs. "+ d.price;
 
 			var btn = document.createElement('button');
-			btn.setAttribute('class','btn btn-success');
+			btn.setAttribute('class','btn btn-info');
 			btn.setAttribute('id','btnWish'+d.id);
 			document.getElementById('card'+d.id).appendChild(btn);
 			document.getElementById('btnWish'+d.id).innerHTML = "Add to Wishlist";
 
 			var Addbtn = document.createElement('button');
-			Addbtn.setAttribute('class','btn btn-primary');
+			Addbtn.setAttribute('class','btn btn-danger');
 			Addbtn.setAttribute('id','btnCart'+d.id);
 			document.getElementById('card'+d.id).appendChild(Addbtn);
 			document.getElementById('btnCart'+d.id).innerHTML = "Add to Cart";
