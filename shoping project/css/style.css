@@ -86,10 +86,12 @@ p{
       max-width: 50%;
     }
   }
-  .card-img-top{
-      height: 200px;
-      width: 180px;
-      padding-top: 10%;
+  .card > .card-img-top {
+      height: 300px;
+      width: 200px;
+      padding: 2px 2px;
+      align:center;
+
   }
   .col-lg-4 col-md-4 col-sm-6 col-xs-12{
       margin-top:3%;
@@ -97,7 +99,16 @@ p{
   .title
   {
     font-family: Georgia, 'Times New Roman', Times, serif;
-  }
+    font-style: italic;
+    padding-right: 2px;
+    color:firebrick;
+}
   .price{
       font-weight: bold;
+      color: coral;
+  }
+  .card{
+      border: 1px solid gray;
+      padding: 10px 10px;
+    
   }
