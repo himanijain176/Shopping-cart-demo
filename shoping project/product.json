@@ -1,0 +1,32 @@
+
+    "productcat":[
+        {
+            "category":"Men",
+            "sub_category":[
+                {
+                    "typename":"Tshirts"
+                },
+                {
+                    "typename":"Formal shirts"
+                }
+                {
+                    "typename":"Jackets"
+                }
+            ]
+        },
+        {
+            "category":"Women",
+            "sub_category":[
+                {
+                    "typename":"Tops"
+                },
+                {
+                    "typename":"Dresses"
+                }
+                {
+                    "typename":"Kurtas and Suits"
+                }
+            ]
+        }
+    ]
+}
