@@ -116,3 +116,17 @@ p{
   {
     padding-bottom: 10px;
   }
+ #secondnav{
+     background-color: darkgrey;
+ }
+  #secondnav.naveffect{
+    display: block;
+    list-style-type: none;
+  }
+.naveff{
+    list-style-type: none;
+    display: inline;
+    padding: 10px 40px 10px 40px;
+}
+
+  
