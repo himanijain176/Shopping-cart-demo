@@ -1,4 +1,4 @@
-
+{
     "productcat":[
         {
             "category":"Men",
@@ -8,7 +8,7 @@
                 },
                 {
                     "typename":"Formal shirts"
-                }
+                },
                 {
                     "typename":"Jackets"
                 }
@@ -22,7 +22,7 @@
                 },
                 {
                     "typename":"Dresses"
-                }
+                },
                 {
                     "typename":"Kurtas and Suits"
                 }
