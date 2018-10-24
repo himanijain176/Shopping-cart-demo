@@ -126,7 +126,24 @@ function callmenumethod() {
 			Addbtn.setAttribute('id', 'btnCart' + d.id);
 			Addbtn.addEventListener('click',function(c){
 				var pid=(c.target.id).slice(-1);
-				console.log(pid);
+				//console.log(pid);
+				var cartproduct=[];
+				if(localStorage.getItem('cart')!=null)
+				{
+                    var prod= localStorage.getItem('cart');
+					
+					cartproduct.push(prod);
+					cartproduct.push(pid);
+					
+					
+					localStorage.setItem('cart',cartproduct);
+					console.log(pid);
+				}
+				else{
+					cartproduct.push(pid);
+					localStorage.setItem('cart',cartproduct);
+					
+				}
 				/*var productdet=document.getElementById("btnCart");
 				localStorage.setItem('cart',d.id);
 				console.log(d.id);*/
