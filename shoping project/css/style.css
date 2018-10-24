@@ -122,11 +122,20 @@ p{
   #secondnav.naveffect{
     display: block;
     list-style-type: none;
+    
   }
 .naveff{
     list-style-type: none;
     display: inline;
     padding: 10px 40px 10px 40px;
+  
+}
+.sub-menu{
+    position: absolute;
+    background-color: gray;
+    color:black;
+    margin-top: 10px;
+    z-index: 1;
 }
 
   
