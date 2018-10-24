@@ -124,6 +124,13 @@ function callmenumethod() {
 			var Addbtn = document.createElement('button');
 			Addbtn.setAttribute('class', 'btn btn-danger');
 			Addbtn.setAttribute('id', 'btnCart' + d.id);
+			Addbtn.addEventListener('click',function(c){
+				var pid=(c.target.id).slice(-1);
+				console.log(pid);
+				/*var productdet=document.getElementById("btnCart");
+				localStorage.setItem('cart',d.id);
+				console.log(d.id);*/
+			})
 			document.getElementById('card' + d.id).appendChild(Addbtn);
 			document.getElementById('btnCart' + d.id).innerHTML = "Add to Cart";
 
