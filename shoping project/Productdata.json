@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "01",
     "category": "Men",
     "sub_category": "Tshirts",
     "brand": "Puma",
@@ -16,7 +16,7 @@
     "feature":["Charcoal grey solid T-shirt"," has a polo collar","short sleeves"]
   },
   {
-    "id": 2,
+    "id": "02",
     "category": "Men",
     "sub_category": "Tshirts",
     "brand": "Roadster",
@@ -32,7 +32,7 @@
     "feature":["Black T-shirt with printed detail", "has a round neck"," short sleeves"]
   },
  {
-    "id": 3,
+    "id": "03",
     "category": "Men",
     "sub_category": "Formal shirts",
     "brand": "Peter England",
@@ -48,7 +48,7 @@
     "feature":["Pink and blue checked formal shirt"," has a spread collar"," short sleeves","straight hem"," one patch pocket"]
   },
   {
-    "id": 4,
+    "id": "04",
     "category": "Men",
     "sub_category": "Formal shirts",
     "brand": "Arrow",
@@ -64,7 +64,7 @@
     "feature":["Blue checked formal shirt, has a spread collar", "long sleeves", "curved hem", "one patch pocket"]
   },
  {
-    "id": 5,
+    "id": "05",
     "category": "Men",
     "sub_category": "Jackets",
     "brand": "Fort Collins",
@@ -80,7 +80,7 @@
     "feature":["Grey solid padded jacket","has a mock collar","four pockets","zip closure","long sleeves","straight hem","polyester lining"]
   },
 {
-    "id": 6,
+    "id": "06",
     "category": "Men",
     "sub_category": "Jackets",
     "brand": "Wildcraft",
@@ -96,7 +96,7 @@
     "feature":["Orange solid jacket","has a stand collar","2 pockets","zip closure","long sleeves","straight hem","nylon lining"]
   },
 {
-    "id": 7,
+    "id": "07",
     "category": "Women",
     "sub_category": "Tops",
     "brand": "ONLY",
@@ -112,7 +112,7 @@
     "feature":["Olive green solid woven regular top","has a round neck","short sleeves"]
   },
 {
-    "id": 8,
+    "id": "08",
     "category": "Women",
     "sub_category": "Tops",
     "brand": "Vero Moda",
@@ -128,7 +128,7 @@
     "feature":["Peach-coloured solid woven regular top", "has a tie-up neck"," long sleeves"]
   },
 {
-    "id": 9,
+    "id": "09",
     "category": "Women",
     "sub_category": "Dresses",
     "brand": "FOREVER 21",
@@ -144,7 +144,7 @@
     "feature":["White solid woven shirt dress","has a shirt collar", "short sleeves","full button closure","curved hem Comes with a belt"]
   },
 {
-    "id": 10,
+    "id": "10",
     "category": "Women",
     "sub_category": "Dresses",
     "brand": "Harpa",
@@ -160,7 +160,7 @@
     "feature":["Yellow floral print woven A-line dress with cut-out detail","has a round neck", "three-quarter sleeves, button closure, slightly flared hem"]
   },
 {
-    "id": 11,
+    "id": "11",
     "category": "Women",
     "sub_category": "Kurtas ans Suits",
     "brand": "Biba",
@@ -176,7 +176,7 @@
     "feature":["Orange and green solid A-line kurta","has a mandarin collar","three-quarter sleeves","high-low hem, side slits","2 pockets","pin tucks detail"]
   },
 {
-    "id": 12,
+    "id": "12",
     "category": "Women",
     "sub_category": "Kurtas ans Suits",
     "brand": "IMARA",
