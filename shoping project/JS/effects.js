@@ -1,4 +1,3 @@
-
 /*filterSelection("all")
 function filterSelection(c) {
   var x, i;
@@ -9,7 +8,6 @@ function filterSelection(c) {
     if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
   }
 }
-
 function w3AddClass(element, name) {
   var i, arr1, arr2;
   arr1 = element.className.split(" ");
@@ -18,7 +16,6 @@ function w3AddClass(element, name) {
     if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
   }
 }
-
 function w3RemoveClass(element, name) {
   var i, arr1, arr2;
   arr1 = element.className.split(" ");
@@ -30,8 +27,6 @@ function w3RemoveClass(element, name) {
   }
   element.className = arr1.join(" ");
 }
-
-
 // Add active class to the current button (highlight it)
 var btnContainer = document.getElementById("myBtnContainer");
 var btns = btnContainer.getElementsByClassName("btn");
@@ -125,7 +120,7 @@ function callmenumethod() {
 			Addbtn.setAttribute('class', 'btn btn-danger');
 			Addbtn.setAttribute('id', 'btnCart' + d.id);
 			Addbtn.addEventListener('click',function(c){
-				var pid=(c.target.id).slice(-1);
+				var pid=(c.target.id).slice(-2);
 				//console.log(pid);
 				var cartproduct=[];
 				if(localStorage.getItem('cart')!=null)
@@ -201,6 +196,30 @@ function displayProduct(subcategorydata) {
 				var Addbtn = document.createElement('button');
 				Addbtn.setAttribute('class', 'btn btn-danger');
 				Addbtn.setAttribute('id', 'btnCart' + da.id);
+				Addbtn.addEventListener('click',function(c){
+					var pid=(c.target.id).slice(-2);
+					//console.log(pid);
+					var cartproduct=[];
+					if(localStorage.getItem('cart')!=null)
+					{
+						var prod= localStorage.getItem('cart');
+						
+						cartproduct.push(prod);
+						cartproduct.push(pid);
+						
+						
+						localStorage.setItem('cart',cartproduct);
+						console.log(pid);
+					}
+					else{
+						cartproduct.push(pid);
+						localStorage.setItem('cart',cartproduct);
+						
+					}
+					/*var productdet=document.getElementById("btnCart");
+					localStorage.setItem('cart',d.id);
+					console.log(d.id);*/
+				})
 				document.getElementById('card' + da.id).appendChild(Addbtn);
 				document.getElementById('btnCart' + da.id).innerHTML = "Add to Cart";
 			}
@@ -209,5 +228,3 @@ function displayProduct(subcategorydata) {
 
 	});
 }
-
-
