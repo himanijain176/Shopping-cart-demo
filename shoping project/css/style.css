@@ -38,7 +38,7 @@
     width: 100%;
 }
 .carousel slide{
-        
+        padding: 0px 0px 0px 0px;
 }
 .carousel-caption h2{
         font-size:30px;
@@ -117,18 +117,19 @@ p{
     padding-bottom: 10px;
   }
  #secondnav{
-     background-color: darkgrey;
+     background-color: gray;
  }
-  #secondnav.naveffect{
+ #secondnav.naveffect{
     display: block;
     list-style-type: none;
+  
     
   }
 .naveff{
     list-style-type: none;
     display: inline;
     padding: 10px 40px 10px 40px;
-  
+   
 }
 .sub-menu{
     position: absolute;
@@ -136,6 +137,11 @@ p{
     color:black;
     margin-top: 10px;
     z-index: 1;
+   
+    
+}
+#secondnav li sub-menu li a{
+    padding: 20px;
 }
 
   
